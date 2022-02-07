@@ -1,0 +1,11 @@
+.container div {
+  border: 2px solid blue;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border-radius: 7px;
+  font-weight: bolder;
+}
